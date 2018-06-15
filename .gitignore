@@ -1,24 +1,34 @@
-Library/
-Packages/manifest.json
-Assets/Scenes/SampleScene.unity.meta
-Assets/Scenes/SampleScene.unity
-Assets/Scenes.meta
-Temp/
-ProjectSettings/UnityConnectSettings.asset
-ProjectSettings/TimeManager.asset
-ProjectSettings/TagManager.asset
-ProjectSettings/QualitySettings.asset
-ProjectSettings/ProjectVersion.txt
-ProjectSettings/ProjectSettings.asset
-ProjectSettings/PresetManager.asset
-ProjectSettings/Physics2DSettings.asset
-ProjectSettings/NetworkManager.asset
-ProjectSettings/NavMeshAreas.asset
-ProjectSettings/InputManager.asset
-ProjectSettings/GraphicsSettings.asset
-ProjectSettings/EditorSettings.asset
-ProjectSettings/EditorBuildSettings.asset
-ProjectSettings/DynamicsManager.asset
-ProjectSettings/ClusterInputManager.asset
-ProjectSettings/AudioManager.asset
-AngrySnow.sln
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.sln*
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+.vs/
