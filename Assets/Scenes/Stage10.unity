@@ -2013,6 +2013,11 @@ Prefab:
       propertyPath: m_BodyType
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 212356581515584304, guid: 088a04759a7d5d148875de099a9f17d5,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 088a04759a7d5d148875de099a9f17d5, type: 2}
   m_IsPrefabParent: 0
