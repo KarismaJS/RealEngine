@@ -65,7 +65,7 @@ public class Dragging : MonoBehaviour
     }
     void OnMouseDown()
     {
-        //spring.enabled = false;
+        spring.enabled = false;
         isPressed = true;
         rb.isKinematic = true;
     }
