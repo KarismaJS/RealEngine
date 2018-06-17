@@ -135,10 +135,10 @@ LineRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Positions:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 1}
+  - {x: -4.735, y: -0.6190001, z: 0}
+  - {x: -4.720868, y: -0.86466086, z: 0}
   m_Parameters:
     serializedVersion: 2
     widthMultiplier: 0.15
@@ -227,10 +227,10 @@ LineRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Positions:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 1}
+  - {x: -4.387, y: -0.51100004, z: 0}
+  - {x: -4.720868, y: -0.86466086, z: 0}
   m_Parameters:
     serializedVersion: 2
     widthMultiplier: 0.15

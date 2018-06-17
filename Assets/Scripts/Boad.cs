@@ -6,7 +6,7 @@ public class Boad : MonoBehaviour {
 
     public GameObject destoryEffect;
 
-    public float boadHealth = 5f;
+    public float boadHealth = 2.3f;
 
     public static int BoadRemain = 0;
 
