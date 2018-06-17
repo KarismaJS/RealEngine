@@ -7,7 +7,7 @@ public class Enemy : MonoBehaviour {
 
     public GameObject deathEffect;
 
-    public float enemyHealth = 4f;
+    public float enemyHealth = 3f;
 
     public static int EneminiesAlive = 0;
 

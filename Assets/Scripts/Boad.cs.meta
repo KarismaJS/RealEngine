@@ -3,7 +3,9 @@ guid: af09d9eccd8f9604fab34a49524f620e
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - destoryEffect: {fileID: 1498205166306232, guid: 79ae0215bd9d2c44c838bcd17f7410ca,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
