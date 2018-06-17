@@ -64,3 +64,7 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 [Tt]humbs.db
+.vs/Angry/v15/Server/sqlite3/db.lock
+.vs/Angry/v15/Server/sqlite3/storage.ide-wal
+.vs/Angry/v15/Server/sqlite3/storage.ide-shm
+.vs/Angry/v15/Server/sqlite3/storage.ide
