@@ -410,7 +410,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 330921481}
-        m_MethodName: ChangeStage5
+        m_MethodName: ChangeStage9
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -544,7 +544,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 466313797}
-        m_MethodName: ChangeStage5
+        m_MethodName: ChangeStage7
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1034,7 +1034,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1025120870}
-        m_MethodName: ChangeStage5
+        m_MethodName: ChangeStage10
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1687,7 +1687,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1362589430}
-        m_MethodName: ChangeStage5
+        m_MethodName: ChangeStage6
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2043,7 +2043,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1695361312}
-        m_MethodName: ChangeStage5
+        m_MethodName: ChangeStage8
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

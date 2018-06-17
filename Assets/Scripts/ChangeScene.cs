@@ -18,11 +18,9 @@ public class ChangeScene : MonoBehaviour {
     public void ChangeStageScene()
     {
         SceneManager.LoadScene("StageScene");
+       
     }
-    public void ChangeTutorial()
-    {
-        SceneManager.LoadScene("Tutorial");
-    }
+ 
     public void ChangeStage1()
     {
         SceneManager.LoadScene("Stage1");
@@ -43,4 +41,25 @@ public class ChangeScene : MonoBehaviour {
     {
         SceneManager.LoadScene("Stage5");
     }
+    public void ChangeStage6()
+    {
+        SceneManager.LoadScene("Stage6");
+    }
+    public void ChangeStage7()
+    {
+        SceneManager.LoadScene("Stage7");
+    }
+    public void ChangeStage8()
+    {
+        SceneManager.LoadScene("Stage8");
+    }
+    public void ChangeStage9()
+    {
+        SceneManager.LoadScene("Stage9");
+    }
+    public void ChangeStage10()
+    {
+        SceneManager.LoadScene("Stage10");
+    }
+
 }
