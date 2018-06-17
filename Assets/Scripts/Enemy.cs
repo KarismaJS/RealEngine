@@ -34,8 +34,19 @@ public class Enemy : MonoBehaviour {
         EneminiesAlive--;
         if(EneminiesAlive <= 0)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            LoadNextScene();
         }
         Destroy(gameObject);
+    }
+
+    void LoadNextScene()
+    {
+        Scene nowScene = SceneManager.GetActiveScene();
+
+        int curScene = nowScene.buildIndex;
+
+        int nextScene = curScene + 1;
+
+        SceneManager.LoadScene(nextScene);
     }
 }

@@ -89,6 +89,11 @@ public class Shooting : MonoBehaviour {
         {
             nextBall.SetActive(true);
         }
+        else if((nextBall == null )&& (Enemy.EneminiesAlive > 0))
+        {
+            Enemy.EneminiesAlive = 0;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
     }
 
     void LineRendererSetup()
