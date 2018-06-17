@@ -6,7 +6,7 @@ public class Box : MonoBehaviour {
 
     public GameObject boxDestoryEffect;
 
-    public float boxHealth = 6f;
+    public float boxHealth = 2.5f;
 
     public static int BoxRemain = 0;
 

@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4727111987495472}
   - component: {fileID: 212074572795549640}
-  - component: {fileID: 114616233310366108}
+  - component: {fileID: 114569251768075374}
   - component: {fileID: 61770207438899392}
   - component: {fileID: 50128592073749938}
   m_Layer: 0
@@ -88,7 +88,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.56, y: 2.56}
   m_EdgeRadius: 0
---- !u!114 &114616233310366108
+--- !u!114 &114569251768075374
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -101,7 +101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boxDestoryEffect: {fileID: 1778163300147280, guid: 3fc7e71f9489bb94d9b46acba28c0d8e,
     type: 2}
-  boxHealth: 6
+  boxHealth: 2.5
 --- !u!212 &212074572795549640
 SpriteRenderer:
   m_ObjectHideFlags: 1
