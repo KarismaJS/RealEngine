@@ -34,7 +34,7 @@ public class Enemy : MonoBehaviour {
         EneminiesAlive--;
         if(EneminiesAlive <= 0)
         {
-            Debug.Log("Level Complate");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
         Destroy(gameObject);
     }
