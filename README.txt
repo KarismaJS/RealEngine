@@ -1,5 +1,26 @@
 # SnowBrothers
 
+사용법
+ 게임 실행시 Angry.exe로 실행.
+ 게임 해상도는 1024 X 768로 설정.
+ 
+ 
+스크립트 정보
+ Boad.cs : 게임 내 나무판자 관련 스크립트
+ Box.cs : 게임 내 나무상자 관련 스크립트
+ ChangeScene.cs : 스테이지 선택창 관련 스크립트
+ Enemy.cs : 적 오브젝트 관련 스크립트
+ Pause.cs : 게임 내 일시정지 관련 스크립트
+ Shooting.cs : 오브젝트 발사 관련 스크립트
+ 
+ 
+ 개발자 정보
+   - 박지상 : qkrwltkd77@gmail.com
+   - 김성준 : tkdwnsthwhs@naver.com
+   - 강준희 : khs0348@naver.com
+   - 김종완 : kimjw9912@gmail.com
+
+
 새로운 스테이지 만들 때 주의사항
   
   1. 프리펩을 이용하여 새로운 맵을 만든 뒤 Bullets프리펩 내의 chiken들의 인스펙터에서 shooting(script)를 찾는다.
